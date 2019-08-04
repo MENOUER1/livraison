@@ -15,7 +15,7 @@ padding: 5rem;
 
 .section1
 {
-    
+    text-align: center;
 
 background-color: darkslategray;
 
@@ -38,6 +38,10 @@ border: 1rem black solid;
 width: 15rem;
 
 }
+.identity4
 
+{
+   margin: 1rem;
+}
 
 
