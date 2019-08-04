@@ -1,0 +1,43 @@
+*{
+    padding:0rem;
+
+    margin: 0rem;
+    
+    
+
+}
+header{
+    background-color: grey;
+text-align: center;
+padding: 5rem;
+    
+}
+
+.section1
+{
+    
+
+background-color: darkslategray;
+
+}
+.section2
+
+
+{
+    background-color: cornflowerblue;
+    margin: 2rem;
+    border: 1rem black solid;
+    
+
+}
+.section3
+
+{
+border: 1rem black solid;
+   background-color:cornflowerblue;
+width: 15rem;
+
+}
+
+
+
